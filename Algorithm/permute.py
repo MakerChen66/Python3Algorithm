@@ -1,10 +1,10 @@
 '''
 ！usr/bin/env python3
 - * - encoding=utf-8 - * -
-author     :  makerchen
-time       :  2019-5-9
-IDE        :  PyCharm/Sublime Text
-微信公众号 ：小鸿星空科技
+@author     :  makerchen
+@time       :  2019-5-9
+@IDE        :  PyCharm/Sublime Text
+@微信公众号 ：小鸿星空科技
 - * - encoding=utf-8 - * -
 '''
 

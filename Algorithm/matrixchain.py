@@ -1,11 +1,11 @@
 '''
-！usr/bin/env python3
-- * - encoding=utf-8 - * -
-author     :  makerchen
-time       :  2019-5-8
-IDE        :  PyCharm/Sublime Text
-微信公众号 ：小鸿星空科技
-- * - encoding=utf-8 - * -
+#!/usr/bin/env python3
+- * - coding=utf-8 - * -
+@author     :  makerchen
+@time       :  2019-5-8
+@IDE        :  PyCharm/Sublime Text
+@微信公众号 ：小鸿星空科技
+- * - coding=utf-8 - * -
 '''
 
 
